@@ -27,7 +27,7 @@ Check out the live demo: [Weather Vista Live](https://jovial-cheesecake-31f265.n
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 - [Weather Icons](https://erikflowers.github.io/weather-icons/)
 - OpenWeatherMap API
 
